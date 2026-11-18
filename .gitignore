@@ -1,0 +1,23 @@
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Viral Cutter: vídeos, modelos e saídas gerados localmente
+Skillls de criacao de short content/Viral Cutter/models/*
+!Skillls de criacao de short content/Viral Cutter/models/.local-model-here
+Skillls de criacao de short content/Viral Cutter/VIRALS/
+Skillls de criacao de short content/Viral Cutter/tmp/
+*.mp4
+*.mkv
+*.webm
+
+# Chaves e segredos
+.env
+*.env
